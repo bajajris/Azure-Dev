@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\Ashwell\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\risha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ashwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\risha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

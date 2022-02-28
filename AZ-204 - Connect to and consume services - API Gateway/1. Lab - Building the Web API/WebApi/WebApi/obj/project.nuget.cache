@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "ENpk+fi/fDd4yyr3W14tYharqtxvlOlHq5VUX20DXaG79vzrKdbWTIGNJVsaTqD5gLmACK6l5FSm0aMh0TsHEQ==",
+  "dgSpecHash": "GymoXfj9Am+Y0hi6BuBlp0WFSFTpcQ+Aow89PcJ/xqELM6K2rbmZ7uB5j7jwonBcT4M9N3RyZoDrGvxOHNKhsA==",
   "success": true,
-  "projectFilePath": "C:\\Udemy\\AZ-204\\Connect to and consume Azure and third-party services\\Lab - Building the Web API\\new\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\risha\\source\\repos\\bajajris\\Azure-Dev\\AZ-204 - Connect to and consume services - API Gateway\\1. Lab - Building the Web API\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.core\\1.9.0\\azure.core.1.9.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.storage.blobs\\12.9.0-beta.1\\azure.storage.blobs.12.9.0-beta.1.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.storage.common\\12.8.0-beta.1\\azure.storage.common.12.8.0-beta.1.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
-    "C:\\Users\\Ashwell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\risha\\.nuget\\packages\\azure.core\\1.9.0\\azure.core.1.9.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\azure.storage.blobs\\12.9.0-beta.1\\azure.storage.blobs.12.9.0-beta.1.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\azure.storage.common\\12.8.0-beta.1\\azure.storage.common.12.8.0-beta.1.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

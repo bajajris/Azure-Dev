@@ -1,9 +1,0 @@
-docker build -t myapp .
-
-docker login
-
-docker logout
-
-docker tag myapp shakinstev/myapp:v1
-
-docker push shakinstev/myapp:v1

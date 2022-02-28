@@ -1,8 +1,0 @@
-// Let's run an ubuntu container
-
-docker volume create blobvolume
-
-docker volume ls
-
-docker container run -d --mount source=blobvolume,target=/app shakinstev/blobproject
-

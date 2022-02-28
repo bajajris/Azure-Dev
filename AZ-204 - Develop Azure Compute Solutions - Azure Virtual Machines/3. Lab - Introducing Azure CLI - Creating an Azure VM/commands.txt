@@ -1,3 +1,0 @@
-az group create --name vm-grp --location eastus
-
-az vm create --resource-group vm-grp --name demovm --image win2019datacenter --admin-username azureuser
